@@ -1,0 +1,13 @@
+#: locale=en
+
+## Media
+
+### Title
+model_5C6F5893_4D69_AD7E_41C2_697EEB6BB433.label = Wuhu Island
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Wuhu Island
